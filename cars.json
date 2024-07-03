@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "make": "Mercedes-Benz",
+    "model": "Faultless GT (1965)",
+    "seats": 2,
+    "imageUrl": "https://i.pinimg.com/originals/fc/b2/ff/fcb2ffd14035b6cd6eadbfe5bd4a8cf7.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Land Rover",
+    "model": "Defender 90 (1978)",
+    "seats": 5,
+    "imageUrl": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/jpg/201102/cars-2-gets-british-.jpg"
+  },
+  {
+    "id": 3,
+    "make": "Mercedes-Benz",
+    "model": "C63AMG (2008)",
+    "seats": 5,
+    "imageUrl": "https://i.pinimg.com/originals/dd/40/4a/dd404a01e94cc56f3bc643d8c10555db.jpg"
+  },
+  {
+    "id": 4,
+    "make": "Tuscan",
+    "model": "MT-R Mark II (2008)",
+    "seats": 2,
+    "imageUrl": "https://i.pinimg.com/originals/e9/af/c5/e9afc544a33d5ab3b4a15755b95b612f.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Porsche",
+    "model": "996-Generation Carrera 911 (2002)",
+    "seats": 2,
+    "imageUrl": "https://i.pinimg.com/originals/5c/94/96/5c949658f4dac72f8ff88f91d27f6201.jpg"
+  },
+  {
+    "id": 6,
+    "make": "Coupé",
+    "model": "CRS Sports (2017)",
+    "seats": 5,
+    "imageUrl": "https://i.pinimg.com/736x/33/2b/74/332b742fadfc46079a01057e594b0b0e.jpg"
+  },
+  {
+    "id": 7,
+    "make": "Fiat",
+    "model": "500 (1959)",
+    "seats": 5,
+    "imageUrl": "https://simplywallpaper.net/pictures/2010/10/26/luigi-Pixar-Cars-Wallpaper.jpg"
+  },
+  {
+    "id": 8,
+    "make": "BMW",
+    "model": "Alza Tutto Forklift (1959)",
+    "seats": 1,
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150608-27674-1mxpow0_68fdb789.jpeg?region=0%2C0%2C1580%2C880"
+  },
+  {
+    "id": 9,
+    "make": "Ferrari",
+    "model": "F430 (2005)",
+    "seats": 5,
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDk1UI6wq6AiN4Q6W1bVx249gyEncWpTnvlGDVyNNhkzMnXzdcLElImpTGjiL7D3UzhL8nOxy6n3IOqUvPKF6Hn_1vkhlJdNWH51TXWIz7KkF4NuIA7DAxi4t1uqA8SQEYn58huVV1o_M/w1200-h630-p-k-no-nu/Screen+Shot+2014-04-08+at+9.47.13+AM.png"
+  },
+  {
+    "id": 10,
+    "make": "Chevrolet",
+    "model": "Boom Truck (1951)",
+    "seats": 2,
+    "imageUrl": "https://i.pinimg.com/originals/7d/08/4b/7d084bfb11a1fd089f741b9fa439db3e.jpg"
+  },
+  {
+    "id": 11,
+    "make": "Ferrari",
+    "model": "Mack Super-Liner sleeper cab (1985)",
+    "seats": 2,
+    "imageUrl": "https://simplywallpaper.net/pictures/2010/10/26/mack-trailer-Pixar-Cars-Wallpaper.jpg"
+  },
+  {
+    "id": 12,
+    "make": "Coupé",
+    "model": "Hudson Hornet (1951)",
+    "seats": 5,
+    "imageUrl": "https://i.pinimg.com/originals/b3/03/3a/b3033a295c7fa51b3bd1c61de9e06ade.jpg"
+  },
+  {
+    "id": 13,
+    "make": "Chevrolet",
+    "model": "C6 R Corvette (2006)",
+    "seats": 5,
+    "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/lightning_mcqueen_on_a_racetrack_in_cars.jpg"
+  }
+]
