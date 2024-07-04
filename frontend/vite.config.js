@@ -20,13 +20,10 @@ export default defineConfig({
 
   build: {
     // specify the output directory for production build
-    outDir: 'frontend/public/build',
+    outDir: 'public',
     // provide consistent fetch API across different environments 
     rollupOptions: {
       external: ['isomorphic-fetch'],
     },
-  },
-
-  // specify the public directory for serving during development
-  publicDir: 'frontend/public',
+  }
 })
