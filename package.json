@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon car_server.js",
-    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend --output public"
+    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend --output frontend"
   },
   "author": "",
   "license": "ISC",
