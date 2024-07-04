@@ -10,7 +10,7 @@
     {
       "src": "/(.*)",
       "headers": {
-        "Content-Type": "application/javascript"
+        "Content-Type": "application/json"
       }
     }
   ]
