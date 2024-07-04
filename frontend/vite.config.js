@@ -16,4 +16,10 @@ export default defineConfig({
       },
     },
   },
+  // provide consistent fetch API across different environments 
+  build: {
+    rollupOptions: {
+      external: ['isomorphic-fetch'],
+    },
+  },
 })
