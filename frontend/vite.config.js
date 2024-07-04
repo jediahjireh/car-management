@@ -4,6 +4,7 @@ import { defineConfig } from 'vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+
   server: {
     // desired port number for vite development server
     port: 8000,
@@ -16,10 +17,16 @@ export default defineConfig({
       },
     },
   },
-  // provide consistent fetch API across different environments 
+
   build: {
+    // specify the output directory for production build
+    outDir: 'frontend/public/build',
+    // provide consistent fetch API across different environments 
     rollupOptions: {
       external: ['isomorphic-fetch'],
     },
   },
+
+  // specify the public directory for serving during development
+  publicDir: 'frontend/public',
 })
