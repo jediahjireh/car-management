@@ -1,16 +1,15 @@
 {
-  "name": "car-management",
+  "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon car_server.js",
-    "build": "cd frontend && npm install && npm run build",
-    "dev": "cd frontend && npm run dev"
+    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is a car management system.",
   "dependencies": {
     "express": "^4.19.2"
   },
@@ -18,7 +17,7 @@
     "nodemon": "^3.1.4"
   },
   "engines": {
-    "node": "20.x",
+    "node": "v22.2.0",
     "npm": "10.7.0"
   }
 }

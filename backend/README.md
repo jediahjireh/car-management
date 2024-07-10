@@ -13,9 +13,9 @@ This API allows users to manage a list of cars. Users can retrieve the list of c
 ### Installation
 
 1. Clone the repository or download the code.
-2. Navigate to the project directory.
+2. Navigate to the `backend` project directory.
 3. Run `npm install` to install the necessary dependencies.
-4. Start the server with `node car_server.js`.
+4. Start the server with `npm start`.
 
 ### Endpoints
 
@@ -39,9 +39,9 @@ This API allows users to manage a list of cars. Users can retrieve the list of c
    - Body (raw JSON):
      ```json
      {
-       "id": 1,
+       "id": 3,
        "make": "Mercedes-Benz",
-       "model": "A-class",
+       "model": "C63AMG (2008)",
        "seats": 5
      }
      ```
@@ -57,11 +57,11 @@ This API allows users to manage a list of cars. Users can retrieve the list of c
 4. **Update a car's details**:
    - Method: `PUT`
    - URL: `http://localhost:8080/api/:id`
-   - Replace `:id` with the ID of the car to update (e.g. `http://localhost:8080/api/1`).
+   - Replace `:id` with the ID of the car to update (e.g. `http://localhost:8080/api/3`).
    - Body (raw JSON):
      ```json
      {
-       "model": "S-Class",
+       "model": "AMG GT (2015)",
        "seats": 2
      }
      ```
